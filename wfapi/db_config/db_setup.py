@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-import config
+from wfapi.db_config import config
 
 settings = config.get_settings()
 engine = create_engine(settings.DATABASE_URL)

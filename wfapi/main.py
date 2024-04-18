@@ -2,8 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import OAuth2PasswordBearer
 
-from routers import user_router
-from db_config.db_setup import Base, engine
+from wfapi.routers import user_router
+from wfapi.db_config.db_setup import Base, engine
 
 app = FastAPI()
 
