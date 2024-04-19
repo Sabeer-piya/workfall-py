@@ -17,6 +17,5 @@ class Settings(BaseSettings):
     DB_PORT: str = os.getenv('PlSQL_PORT','5432')
     DATABASE_URL : ClassVar[str] = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 
-@lru_cache
 def get_settings() -> Settings:
     return Settings()

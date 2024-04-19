@@ -4,11 +4,12 @@ from fastapi.security import OAuth2PasswordBearer
 
 from wfapi.routers import user_router
 from wfapi.db_config.db_setup import Base, engine
+from wfapi.models import base_entity, app_user, address
 
 app = FastAPI()
+app_user.Base.metadata.create_all(engine)
+address.Base.metadata.create_all(engine)
 
-def create_tables():
-    Base.metadata.create_all(engine)
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="auth/login")
 
