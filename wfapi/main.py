@@ -7,9 +7,6 @@ from wfapi.db_config.db_setup import Base, engine
 from wfapi.models import base_entity, app_user, address
 
 app = FastAPI()
-app_user.Base.metadata.create_all(engine)
-address.Base.metadata.create_all(engine)
-
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="auth/login")
 

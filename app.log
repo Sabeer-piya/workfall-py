@@ -1432,3 +1432,54 @@ fastapi.exceptions.FastAPIError: No response object was returned. There's a high
 2024-04-19 15:45:23,427-INFO-Waiting for application shutdown.
 2024-04-19 15:45:23,428-INFO-Application shutdown complete.
 2024-04-19 15:45:23,428-INFO-Finished server process [84103]
+2024-04-22 11:48:37,948-INFO-Started server process [244565]
+2024-04-22 11:48:37,949-INFO-Waiting for application startup.
+2024-04-22 11:48:37,949-INFO-Application startup complete.
+2024-04-22 11:49:28,341-ERROR-Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thrymr/.local/lib/python3.10/site-packages/uvicorn/protocols/http/httptools_impl.py", line 376, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 91, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/middleware/cors.py", line 146, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 758, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 778, in app
+    await route.handle(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 299, in handle
+    await self.app(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 79, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 74, in app
+    response = await func(request)
+  File "/home/thrymr/.local/lib/python3.10/site-packages/fastapi/routing.py", line 317, in app
+    raise FastAPIError(
+fastapi.exceptions.FastAPIError: No response object was returned. There's a high chance that the application code is raising an exception and a dependency with yield has a block with a bare except, or a block with except Exception, and is not raising the exception again. Read more about it in the docs: https://fastapi.tiangolo.com/tutorial/dependencies/dependencies-with-yield/#dependencies-with-yield-and-except
+2024-04-22 11:52:39,288-INFO-Shutting down
+2024-04-22 11:52:39,389-INFO-Waiting for application shutdown.
+2024-04-22 11:52:39,390-INFO-Application shutdown complete.
+2024-04-22 11:52:39,390-INFO-Finished server process [244565]
+2024-04-22 11:52:44,783-INFO-Started server process [244830]
+2024-04-22 11:52:44,784-INFO-Waiting for application startup.
+2024-04-22 11:52:44,784-INFO-Application startup complete.
