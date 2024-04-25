@@ -1483,3 +1483,309 @@ fastapi.exceptions.FastAPIError: No response object was returned. There's a high
 2024-04-22 11:52:44,783-INFO-Started server process [244830]
 2024-04-22 11:52:44,784-INFO-Waiting for application startup.
 2024-04-22 11:52:44,784-INFO-Application startup complete.
+2024-04-22 12:29:26,250-INFO-Shutting down
+2024-04-22 12:29:26,351-INFO-Waiting for application shutdown.
+2024-04-22 12:29:26,352-INFO-Application shutdown complete.
+2024-04-22 12:29:26,352-INFO-Finished server process [244830]
+2024-04-22 12:29:27,481-INFO-Started server process [246559]
+2024-04-22 12:29:27,481-INFO-Waiting for application startup.
+2024-04-22 12:29:27,481-INFO-Application startup complete.
+2024-04-22 12:30:48,896-INFO-Shutting down
+2024-04-22 12:30:48,997-INFO-Waiting for application shutdown.
+2024-04-22 12:30:48,997-INFO-Application shutdown complete.
+2024-04-22 12:30:48,997-INFO-Finished server process [246559]
+2024-04-22 12:30:50,065-INFO-Started server process [246656]
+2024-04-22 12:30:50,065-INFO-Waiting for application startup.
+2024-04-22 12:30:50,065-INFO-Application startup complete.
+2024-04-22 12:33:49,318-INFO-Shutting down
+2024-04-22 12:33:49,419-INFO-Waiting for application shutdown.
+2024-04-22 12:33:49,420-INFO-Application shutdown complete.
+2024-04-22 12:33:49,420-INFO-Finished server process [246656]
+2024-04-22 12:33:50,506-INFO-Started server process [246860]
+2024-04-22 12:33:50,507-INFO-Waiting for application startup.
+2024-04-22 12:33:50,507-INFO-Application startup complete.
+2024-04-22 12:34:55,581-INFO-Shutting down
+2024-04-22 12:34:55,681-INFO-Waiting for application shutdown.
+2024-04-22 12:34:55,682-INFO-Application shutdown complete.
+2024-04-22 12:34:55,682-INFO-Finished server process [246860]
+2024-04-22 12:34:56,729-INFO-Started server process [246958]
+2024-04-22 12:34:56,729-INFO-Waiting for application startup.
+2024-04-22 12:34:56,729-INFO-Application startup complete.
+2024-04-22 12:38:46,328-INFO-Shutting down
+2024-04-22 12:38:46,428-INFO-Waiting for application shutdown.
+2024-04-22 12:38:46,429-INFO-Application shutdown complete.
+2024-04-22 12:38:46,429-INFO-Finished server process [246958]
+2024-04-22 12:42:35,731-INFO-Started server process [247436]
+2024-04-22 12:42:35,731-INFO-Waiting for application startup.
+2024-04-22 12:42:35,732-INFO-Application startup complete.
+2024-04-22 12:44:01,375-INFO-Shutting down
+2024-04-22 12:44:01,476-INFO-Waiting for application shutdown.
+2024-04-22 12:44:01,476-INFO-Application shutdown complete.
+2024-04-22 12:44:01,476-INFO-Finished server process [247436]
+2024-04-22 12:44:02,519-INFO-Started server process [247519]
+2024-04-22 12:44:02,519-INFO-Waiting for application startup.
+2024-04-22 12:44:02,520-INFO-Application startup complete.
+2024-04-22 12:44:34,514-INFO-Shutting down
+2024-04-22 12:44:34,615-INFO-Waiting for application shutdown.
+2024-04-22 12:44:34,615-INFO-Application shutdown complete.
+2024-04-22 12:44:34,616-INFO-Finished server process [247519]
+2024-04-22 12:44:35,683-INFO-Started server process [247557]
+2024-04-22 12:44:35,683-INFO-Waiting for application startup.
+2024-04-22 12:44:35,683-INFO-Application startup complete.
+2024-04-22 12:44:41,437-ERROR-Email already exists
+2024-04-22 12:44:48,719-INFO-Shutting down
+2024-04-22 12:44:48,820-INFO-Waiting for application shutdown.
+2024-04-22 12:44:48,820-INFO-Application shutdown complete.
+2024-04-22 12:44:48,820-INFO-Finished server process [247557]
+2024-04-22 12:46:20,709-INFO-Started server process [247709]
+2024-04-22 12:46:20,709-INFO-Waiting for application startup.
+2024-04-22 12:46:20,710-INFO-Application startup complete.
+2024-04-22 12:56:18,644-ERROR-Email already exists
+2024-04-22 12:58:18,108-INFO-Shutting down
+2024-04-22 12:58:18,209-INFO-Waiting for application shutdown.
+2024-04-22 12:58:18,210-INFO-Application shutdown complete.
+2024-04-22 12:58:18,210-INFO-Finished server process [247709]
+2024-04-22 12:58:19,332-INFO-Started server process [248345]
+2024-04-22 12:58:19,332-INFO-Waiting for application startup.
+2024-04-22 12:58:19,333-INFO-Application startup complete.
+2024-04-22 13:06:42,419-INFO-Shutting down
+2024-04-22 13:06:42,520-INFO-Waiting for application shutdown.
+2024-04-22 13:06:42,521-INFO-Application shutdown complete.
+2024-04-22 13:06:42,521-INFO-Finished server process [248345]
+2024-04-22 13:06:43,670-INFO-Started server process [248671]
+2024-04-22 13:06:43,671-INFO-Waiting for application startup.
+2024-04-22 13:06:43,671-INFO-Application startup complete.
+2024-04-22 13:12:23,524-INFO-Shutting down
+2024-04-22 13:12:23,625-INFO-Waiting for application shutdown.
+2024-04-22 13:12:23,625-INFO-Application shutdown complete.
+2024-04-22 13:12:23,625-INFO-Finished server process [248671]
+2024-04-22 13:12:24,731-INFO-Started server process [249541]
+2024-04-22 13:12:24,731-INFO-Waiting for application startup.
+2024-04-22 13:12:24,731-INFO-Application startup complete.
+2024-04-22 13:13:48,236-INFO-Shutting down
+2024-04-22 13:13:48,337-INFO-Waiting for application shutdown.
+2024-04-22 13:13:48,337-INFO-Application shutdown complete.
+2024-04-22 13:13:48,338-INFO-Finished server process [249541]
+2024-04-22 13:13:49,433-INFO-Started server process [249639]
+2024-04-22 13:13:49,433-INFO-Waiting for application startup.
+2024-04-22 13:13:49,433-INFO-Application startup complete.
+2024-04-22 13:18:24,921-INFO-Shutting down
+2024-04-22 13:18:25,022-INFO-Waiting for application shutdown.
+2024-04-22 13:18:25,023-INFO-Application shutdown complete.
+2024-04-22 13:18:25,023-INFO-Finished server process [249639]
+2024-04-22 13:18:26,111-INFO-Started server process [249836]
+2024-04-22 13:18:26,111-INFO-Waiting for application startup.
+2024-04-22 13:18:26,112-INFO-Application startup complete.
+2024-04-22 13:25:40,775-INFO-Shutting down
+2024-04-22 13:25:40,875-INFO-Waiting for application shutdown.
+2024-04-22 13:25:40,876-INFO-Application shutdown complete.
+2024-04-22 13:25:40,876-INFO-Finished server process [249836]
+2024-04-22 13:25:42,020-INFO-Started server process [250143]
+2024-04-22 13:25:42,021-INFO-Waiting for application startup.
+2024-04-22 13:25:42,021-INFO-Application startup complete.
+2024-04-22 13:30:04,784-INFO-Shutting down
+2024-04-22 13:30:04,885-INFO-Waiting for application shutdown.
+2024-04-22 13:30:04,886-INFO-Application shutdown complete.
+2024-04-22 13:30:04,886-INFO-Finished server process [250143]
+2024-04-22 13:30:06,002-INFO-Started server process [250379]
+2024-04-22 13:30:06,002-INFO-Waiting for application startup.
+2024-04-22 13:30:06,003-INFO-Application startup complete.
+2024-04-22 13:38:25,227-INFO-Shutting down
+2024-04-22 13:38:25,329-INFO-Waiting for application shutdown.
+2024-04-22 13:38:25,329-INFO-Application shutdown complete.
+2024-04-22 13:38:25,330-INFO-Finished server process [250379]
+2024-04-22 13:38:26,415-INFO-Started server process [250892]
+2024-04-22 13:38:26,416-INFO-Waiting for application startup.
+2024-04-22 13:38:26,416-INFO-Application startup complete.
+2024-04-22 13:45:27,673-INFO-Shutting down
+2024-04-22 13:45:27,774-INFO-Waiting for application shutdown.
+2024-04-22 13:45:27,774-INFO-Application shutdown complete.
+2024-04-22 13:45:27,774-INFO-Finished server process [250892]
+2024-04-22 13:45:28,928-INFO-Started server process [251402]
+2024-04-22 13:45:28,929-INFO-Waiting for application startup.
+2024-04-22 13:45:28,929-INFO-Application startup complete.
+2024-04-22 13:55:40,596-INFO-Shutting down
+2024-04-22 13:55:40,697-INFO-Waiting for application shutdown.
+2024-04-22 13:55:40,698-INFO-Application shutdown complete.
+2024-04-22 13:55:40,698-INFO-Finished server process [251402]
+2024-04-22 13:55:41,782-INFO-Started server process [251979]
+2024-04-22 13:55:41,782-INFO-Waiting for application startup.
+2024-04-22 13:55:41,783-INFO-Application startup complete.
+2024-04-22 14:51:43,831-INFO-Shutting down
+2024-04-22 14:51:43,932-INFO-Waiting for application shutdown.
+2024-04-22 14:51:43,933-INFO-Application shutdown complete.
+2024-04-22 14:51:43,933-INFO-Finished server process [251979]
+2024-04-22 14:55:00,720-INFO-Started server process [255258]
+2024-04-22 14:55:00,720-INFO-Waiting for application startup.
+2024-04-22 14:55:00,720-INFO-Application startup complete.
+2024-04-22 14:55:38,720-INFO-Shutting down
+2024-04-22 14:55:38,821-INFO-Waiting for application shutdown.
+2024-04-22 14:55:38,822-INFO-Application shutdown complete.
+2024-04-22 14:55:38,822-INFO-Finished server process [255258]
+2024-04-22 14:58:05,320-INFO-Started server process [255461]
+2024-04-22 14:58:05,320-INFO-Waiting for application startup.
+2024-04-22 14:58:05,320-INFO-Application startup complete.
+2024-04-22 14:59:25,441-INFO-User signed up successfully
+2024-04-22 15:03:42,522-INFO-Shutting down
+2024-04-22 15:03:42,623-INFO-Waiting for application shutdown.
+2024-04-22 15:03:42,624-INFO-Application shutdown complete.
+2024-04-22 15:03:42,624-INFO-Finished server process [255461]
+2024-04-22 15:03:43,792-INFO-Started server process [255801]
+2024-04-22 15:03:43,793-INFO-Waiting for application startup.
+2024-04-22 15:03:43,793-INFO-Application startup complete.
+2024-04-22 15:11:48,638-INFO-Shutting down
+2024-04-22 15:11:48,739-INFO-Waiting for application shutdown.
+2024-04-22 15:11:48,740-INFO-Application shutdown complete.
+2024-04-22 15:11:48,740-INFO-Finished server process [255801]
+2024-04-22 15:11:49,860-INFO-Started server process [256608]
+2024-04-22 15:11:49,861-INFO-Waiting for application startup.
+2024-04-22 15:11:49,861-INFO-Application startup complete.
+2024-04-22 15:13:00,551-INFO-Shutting down
+2024-04-22 15:13:00,651-INFO-Waiting for application shutdown.
+2024-04-22 15:13:00,652-INFO-Application shutdown complete.
+2024-04-22 15:13:00,653-INFO-Finished server process [256608]
+2024-04-22 15:13:01,766-INFO-Started server process [256690]
+2024-04-22 15:13:01,766-INFO-Waiting for application startup.
+2024-04-22 15:13:01,767-INFO-Application startup complete.
+2024-04-22 15:13:51,594-INFO-Shutting down
+2024-04-22 15:13:51,694-INFO-Waiting for application shutdown.
+2024-04-22 15:13:51,694-INFO-Application shutdown complete.
+2024-04-22 15:13:51,695-INFO-Finished server process [256690]
+2024-04-22 15:13:52,838-INFO-Started server process [256776]
+2024-04-22 15:13:52,838-INFO-Waiting for application startup.
+2024-04-22 15:13:52,838-INFO-Application startup complete.
+2024-04-22 15:15:57,010-INFO-Starting login process...
+2024-04-22 15:20:15,665-INFO-Shutting down
+2024-04-22 15:20:15,766-INFO-Waiting for application shutdown.
+2024-04-22 15:20:15,767-INFO-Application shutdown complete.
+2024-04-22 15:20:15,767-INFO-Finished server process [256776]
+2024-04-22 15:20:17,024-INFO-Started server process [257242]
+2024-04-22 15:20:17,024-INFO-Waiting for application startup.
+2024-04-22 15:20:17,024-INFO-Application startup complete.
+2024-04-22 15:20:44,389-INFO-Shutting down
+2024-04-22 15:20:44,489-INFO-Waiting for application shutdown.
+2024-04-22 15:20:44,489-INFO-Application shutdown complete.
+2024-04-22 15:20:44,490-INFO-Finished server process [257242]
+2024-04-22 15:24:17,106-INFO-Started server process [257576]
+2024-04-22 15:24:17,107-INFO-Waiting for application startup.
+2024-04-22 15:24:17,107-INFO-Application startup complete.
+2024-04-22 15:24:24,320-INFO-Starting login process...
+2024-04-22 15:30:58,948-INFO-Shutting down
+2024-04-22 15:30:59,049-INFO-Waiting for application shutdown.
+2024-04-22 15:30:59,049-INFO-Application shutdown complete.
+2024-04-22 15:30:59,049-INFO-Finished server process [257576]
+2024-04-22 15:31:00,171-INFO-Started server process [258145]
+2024-04-22 15:31:00,171-INFO-Waiting for application startup.
+2024-04-22 15:31:00,171-INFO-Application startup complete.
+2024-04-22 15:31:05,756-INFO-Starting login process...
+2024-04-22 15:31:52,279-INFO-Shutting down
+2024-04-22 15:31:52,381-INFO-Waiting for application shutdown.
+2024-04-22 15:31:52,381-INFO-Application shutdown complete.
+2024-04-22 15:31:52,381-INFO-Finished server process [258145]
+2024-04-22 15:31:53,574-INFO-Started server process [258246]
+2024-04-22 15:31:53,574-INFO-Waiting for application startup.
+2024-04-22 15:31:53,574-INFO-Application startup complete.
+2024-04-22 15:31:54,160-INFO-Starting login process...
+2024-04-22 15:34:37,234-INFO-User signed up successfully
+2024-04-22 15:36:12,663-INFO-Shutting down
+2024-04-22 15:36:12,763-INFO-Waiting for application shutdown.
+2024-04-22 15:36:12,764-INFO-Application shutdown complete.
+2024-04-22 15:36:12,764-INFO-Finished server process [258246]
+2024-04-22 15:38:06,713-INFO-Started server process [258840]
+2024-04-22 15:38:06,713-INFO-Waiting for application startup.
+2024-04-22 15:38:06,714-INFO-Application startup complete.
+2024-04-22 15:38:50,420-INFO-Starting login process...
+2024-04-22 15:38:50,744-INFO-Generating access token
+2024-04-22 18:44:29,666-INFO-Shutting down
+2024-04-22 18:44:29,767-INFO-Waiting for application shutdown.
+2024-04-22 18:44:29,767-INFO-Application shutdown complete.
+2024-04-22 18:44:29,768-INFO-Finished server process [258840]
+2024-04-22 18:44:30,862-INFO-Started server process [274369]
+2024-04-22 18:44:30,863-INFO-Waiting for application startup.
+2024-04-22 18:44:30,863-INFO-Application startup complete.
+2024-04-22 18:44:38,449-INFO-Starting login process...
+2024-04-22 18:44:38,756-INFO-Generating access token
+2024-04-22 18:45:24,748-INFO-Starting login process...
+2024-04-22 18:45:25,007-INFO-Generating access token
+2024-04-22 18:47:12,098-INFO-Shutting down
+2024-04-22 18:47:12,199-INFO-Waiting for application shutdown.
+2024-04-22 18:47:12,200-INFO-Application shutdown complete.
+2024-04-22 18:47:12,201-INFO-Finished server process [274369]
+2024-04-22 18:47:14,497-INFO-Started server process [274626]
+2024-04-22 18:47:14,498-INFO-Waiting for application startup.
+2024-04-22 18:47:14,498-INFO-Application startup complete.
+2024-04-22 18:47:20,718-INFO-Starting login process...
+2024-04-22 18:47:21,024-INFO-Generating access token
+2024-04-22 18:49:45,098-INFO-Shutting down
+2024-04-22 18:49:45,199-INFO-Waiting for application shutdown.
+2024-04-22 18:49:45,199-INFO-Application shutdown complete.
+2024-04-22 18:49:45,200-INFO-Finished server process [274626]
+2024-04-22 18:49:46,303-INFO-Started server process [274880]
+2024-04-22 18:49:46,303-INFO-Waiting for application startup.
+2024-04-22 18:49:46,303-INFO-Application startup complete.
+2024-04-22 18:50:13,774-INFO-Shutting down
+2024-04-22 18:50:13,875-INFO-Waiting for application shutdown.
+2024-04-22 18:50:13,875-INFO-Application shutdown complete.
+2024-04-22 18:50:13,876-INFO-Finished server process [274880]
+2024-04-22 18:50:14,936-INFO-Started server process [274927]
+2024-04-22 18:50:14,936-INFO-Waiting for application startup.
+2024-04-22 18:50:14,936-INFO-Application startup complete.
+2024-04-22 18:50:17,121-INFO-Starting login process...
+2024-04-22 18:50:17,434-INFO-Generating access token
+2024-04-22 18:51:17,291-INFO-Shutting down
+2024-04-22 18:51:17,392-INFO-Waiting for application shutdown.
+2024-04-22 18:51:17,393-INFO-Application shutdown complete.
+2024-04-22 18:51:17,393-INFO-Finished server process [274927]
+2024-04-22 18:51:18,491-INFO-Started server process [275046]
+2024-04-22 18:51:18,491-INFO-Waiting for application startup.
+2024-04-22 18:51:18,491-INFO-Application startup complete.
+2024-04-22 18:52:38,296-INFO-Shutting down
+2024-04-22 18:52:38,397-INFO-Waiting for application shutdown.
+2024-04-22 18:52:38,397-INFO-Application shutdown complete.
+2024-04-22 18:52:38,398-INFO-Finished server process [275046]
+2024-04-22 18:52:39,507-INFO-Started server process [275164]
+2024-04-22 18:52:39,508-INFO-Waiting for application startup.
+2024-04-22 18:52:39,508-INFO-Application startup complete.
+2024-04-22 18:53:11,463-INFO-Starting login process...
+2024-04-22 18:53:11,818-INFO-Generating access token
+2024-04-22 18:56:29,646-INFO-Shutting down
+2024-04-22 18:56:29,747-INFO-Waiting for application shutdown.
+2024-04-22 18:56:29,748-INFO-Application shutdown complete.
+2024-04-22 18:56:29,748-INFO-Finished server process [275164]
+2024-04-22 18:56:30,828-INFO-Started server process [275515]
+2024-04-22 18:56:30,828-INFO-Waiting for application startup.
+2024-04-22 18:56:30,828-INFO-Application startup complete.
+2024-04-22 18:57:00,208-INFO-Shutting down
+2024-04-22 18:57:00,308-INFO-Waiting for application shutdown.
+2024-04-22 18:57:00,309-INFO-Application shutdown complete.
+2024-04-22 18:57:00,310-INFO-Finished server process [275515]
+2024-04-22 18:57:01,398-INFO-Started server process [275572]
+2024-04-22 18:57:01,398-INFO-Waiting for application startup.
+2024-04-22 18:57:01,399-INFO-Application startup complete.
+2024-04-22 18:57:34,694-INFO-Shutting down
+2024-04-22 18:57:34,794-INFO-Waiting for application shutdown.
+2024-04-22 18:57:34,795-INFO-Application shutdown complete.
+2024-04-22 18:57:34,795-INFO-Finished server process [275572]
+2024-04-22 18:57:37,785-INFO-Started server process [275644]
+2024-04-22 18:57:37,785-INFO-Waiting for application startup.
+2024-04-22 18:57:37,786-INFO-Application startup complete.
+2024-04-22 18:57:47,869-INFO-Starting login process...
+2024-04-22 18:57:48,157-INFO-Generating access token
+2024-04-22 18:58:56,130-INFO-Shutting down
+2024-04-22 18:58:56,230-INFO-Waiting for application shutdown.
+2024-04-22 18:58:56,231-INFO-Application shutdown complete.
+2024-04-22 18:58:56,231-INFO-Finished server process [275644]
+2024-04-22 18:58:57,311-INFO-Started server process [275779]
+2024-04-22 18:58:57,311-INFO-Waiting for application startup.
+2024-04-22 18:58:57,312-INFO-Application startup complete.
+2024-04-22 18:59:50,654-INFO-Shutting down
+2024-04-22 18:59:50,755-INFO-Finished server process [275779]
+2024-04-22 18:59:50,763-ERROR-Traceback (most recent call last):
+  File "/home/thrymr/.local/lib/python3.10/site-packages/starlette/routing.py", line 743, in lifespan
+    await receive()
+  File "/home/thrymr/.local/lib/python3.10/site-packages/uvicorn/lifespan/on.py", line 135, in receive
+    return await self.receive_queue.get()
+  File "/usr/lib/python3.10/asyncio/queues.py", line 159, in get
+    await getter
+asyncio.exceptions.CancelledError
+

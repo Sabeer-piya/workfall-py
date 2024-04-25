@@ -1,10 +1,9 @@
-from fastapi import FastAPI
+import uvicorn
+from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import OAuth2PasswordBearer
 
-from wfapi.routers import user_router
-from wfapi.db_config.db_setup import Base, engine
-from wfapi.models import base_entity, app_user, address
+from wfapi.routers import user_router, personal_router
 
 app = FastAPI()
 
@@ -19,3 +18,7 @@ app.add_middleware(
 )
 
 app.include_router(user_router.router)
+app.include_router(personal_router.router, dependencies=[Depends(oauth2_scheme)])
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="127.0.0.1", port=8000, log_level="info")

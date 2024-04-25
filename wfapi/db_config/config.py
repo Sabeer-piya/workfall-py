@@ -5,6 +5,9 @@ from dotenv import load_dotenv
 from pydantic_settings import BaseSettings
 from typing import ClassVar
 
+SECRET_KEY='7120d7628710519e235fef105b58ad294482391d2bae9e9a18e6d520238b2832'
+ALGORITHM="HS256"
+
 env_path = Path("") / ".env"
 load_dotenv(dotenv_path=env_path)
 
