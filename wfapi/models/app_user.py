@@ -18,6 +18,7 @@ class AppUser(BaseEntity):
     is_active = Column(Boolean, nullable=False, default=True)  # Corrected column type
     role = Column(String)
     address = relationship("Address", back_populates="app_user")
+    bank_detail = relationship("BankDetail", back_populates="app_user")
 
 
 def saveAppUser(request: SignUpReq, role: Role):
